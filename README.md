@@ -18,7 +18,7 @@ Untuk melakukan instalisasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu
 
 ## 2. Menjalankan CLI (Command Line Interface)
 Codeigneter 4 menyediakan CLI untuk mempermudah proses development. Untuk mengakses CLI buka terminal/command prompt.
-![p](gambar/ss1.png)
+![p](gambar/ss1.png)<br>
 Arahkan lokasi dirokteri sesuai dengan direktori kerja project dibuat (xampp/htdocs/lab11_ci/ci4)
 
 Perintahkan yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
