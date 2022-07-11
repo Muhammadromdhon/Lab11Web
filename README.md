@@ -24,3 +24,11 @@ Arahkan lokasi dirokteri sesuai dengan direktori kerja project dibuat (xampp/htd
 Perintahkan yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:<br>
 php spark<br>
 ![p](gambar/ss2.png)<br>
+## 3. Mengaktifkan Mode Debugging<br>
+Codeigniter 4 menyediakan fitur debugging untuk memudahkan developer untuk mengetahui pesan error apabila terjadi kesalahan dalam membuat kode program.<br>
+
+Secara defalut fitur ini belum aktif. Ketika terjadi error pada aplikasi akan ditampilkan pesan kesalahan seperti berikut.<br> 
+![p](gambar/ss9.png)<br>
+Semua jenis error akan ditampilkan sama. Untuk memudahkan mengetahui jenis errornya, maka perlu diaktifkan mode debugging dengan mengubah nilai konfigurasi pada environment variabel CI_ENVIRINMENT menjadi development.<br>
+![p](gambar/ss4.png)<br>
+Ubah nama file env menjadi .env kemudian buka file tersebut dan ubah nilai variable CI_ENVIRINMENT menjadi development.<br>
