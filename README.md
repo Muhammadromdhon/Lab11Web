@@ -23,5 +23,4 @@ Arahkan lokasi dirokteri sesuai dengan direktori kerja project dibuat (xampp/htd
 
 Perintahkan yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
 |php spark|
------------
 ![p](gambar/ss2.png)<br>
