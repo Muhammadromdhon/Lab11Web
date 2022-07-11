@@ -21,6 +21,6 @@ Codeigneter 4 menyediakan CLI untuk mempermudah proses development. Untuk mengak
 ![p](gambar/ss1.png)<br>
 Arahkan lokasi dirokteri sesuai dengan direktori kerja project dibuat (xampp/htdocs/lab11_ci/ci4)
 
-Perintahkan yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
+Perintahkan yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:<br>
 php spark<br>
 ![p](gambar/ss2.png)<br>
